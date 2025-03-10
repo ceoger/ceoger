@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Clement
-- 👀 I’m interested in Solana and LBRY blockchain. 
-- 🌱 I’m currently learning advance typescript and vue3
-- 💞️ I’m looking to collaborate on a project called The Citizen's Hub which seeks to connect expatriates
+- 👀 I’m interested in aoTheComputer and Arweave blockchain. 
+- 🌱 I’m currently building amPortal on aoTheComputer
+- 💞️ I’m looking to collaborate on amPortal on aoTheComputer
 - 📫 How to reach me will be to dm me on twitter @premiumtrendz
 
 <!---
